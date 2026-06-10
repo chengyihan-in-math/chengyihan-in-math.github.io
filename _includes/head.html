@@ -11,6 +11,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$']],          // 定义行内公式的分隔符为 $...$
+    displayMath: [['$$', '$$']]        // 定义块级公式的分隔符为 $$...$$
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
+
+<script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
   {% if site.enable_copy_code_button -%}
     window.enable_copy_code_button = true;
