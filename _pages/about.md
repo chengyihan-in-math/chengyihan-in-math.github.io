@@ -5,7 +5,7 @@ excerpt: "我是程逸寒"
 toc: true
 layout: single 
 ---
-{% include gallery image_path="/assets/images/帅照.jpg" caption="这是我的帅照" %}
+{% include gallery image_path="/assets/images/背影.jpg" caption="这是我的帅照" %}
 
 ## 自我介绍
 上海交通大学在读研究生，数学不太好的数学专业学生。
