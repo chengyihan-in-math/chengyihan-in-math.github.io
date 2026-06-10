@@ -4,18 +4,12 @@ date: 2026-06-10
 categories:
   - Blog
 tags:
-  - Jekyll
-  - GitHub Pages
+  - plans
+  - ikkan
 ---
-## Notable Features
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Bulgarian, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch),$x^2=1$Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
--This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+## 很高兴能有我的第一个个人网页
+一直想着未来能找到一个方法，在互联网上找到我的那一隅，但是在了解过各种方法后都放弃了，比较成熟的方案好像是租用一个云服务器，然后在线上部署，想到要买一个域名之类的问题就觉得好麻烦，正好看到github pages能够提供一个制作静态网页的机会，遂尝试之，没想到意外地顺畅。感谢GitHub。
+
+## 我想记录些什么
+其实愿望总是很宏大，我想记录的东西很多很多，我的爱好非常广泛。我想记录住过的上海的各种酒店，想记录很多属于自己的美好瞬间，也想记录下许多人生思考，也想在我的个人主页上写下一些我个人的研究方向。
+
