@@ -8,7 +8,7 @@ tags:
   - GitHub Pages
 ---
 ## Notable Features
-
+   $x^2=1$
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
 - Support for Jekyll's built-in Sass/SCSS preprocessor.
