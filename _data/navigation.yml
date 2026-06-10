@@ -2,8 +2,8 @@
 main:
   - title: "My first blog"
     url: https://chengyihan-in-math.github.io/blog/my-first-post/
-  # - title: "About"
-   #  url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "About"
+     url: /about/
    #- title: "万物起源"
     # url: https://chengyihan-in-math.github.io/blog/my-first-post/
    #- title: "Sample Collections"
