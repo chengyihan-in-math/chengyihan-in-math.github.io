@@ -1,5 +1,5 @@
 ---
-permalink: /ikkan/
+permalink: /about/
 title: "About"
 excerpt: "我是程逸寒"
 toc: true
